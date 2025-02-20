@@ -1,7 +1,7 @@
 ![Header](./your-header-image-name.png)
 
 
-# Hello World!, I'm Supriya, a German Web Developer 👋🏼: 
+# Hello World!, I'm Supriya, a Web Developer 👋🏼: 
 🛜 Currently Working On: My own webpage 👨🏼‍🎓 Education: Graduated with a Bachelor of Computer Applications (BCA) from Sarala Birla University 👨🏼‍💻 Experience: Web Developer since 2024
 
 # 💻 Tech Stack:
