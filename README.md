@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
 # Hello World!, I'm Supriya, a Web Developer 👋🏼: 
